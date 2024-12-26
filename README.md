@@ -4,7 +4,9 @@
 
 <div align="center">
 <h3>👨🏻‍💻About Me👨🏻‍💻</h3>
-
+<a href="https://liberating-rotate-37b.notion.site/Hi-I-m-Seonghun-1687029c46f1809389e0f6b10199d04a?pvs=4">
+<Img src="https://img.shields.io/badge/Notion-000000?style=flat-square&amp;logo=Notion&amp;logoColor=white"/>
+</a>
 <h3 align="center"> 🛠 Tech Stack 🛠 </h3>
 <Img src="https://img.shields.io/badge/Java-007396?style=flat-square&amp;logo=java&amp;logoColor=white"/>
 <Img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&amp;logo=Spring&amp;logoColor=white"/>
