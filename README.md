@@ -37,6 +37,7 @@ fm0420](http://mazassumnida.wtf/api/generate_badge?boj=fm0420)](https://solved.a
 
 <div align=center>
 📬 Contacts
+  <br>
 <a href="kjn0406@gmail.com">
 <Img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&amp;logo=Gmail&amp;logoColor=white"/>
 </a>
