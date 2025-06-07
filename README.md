@@ -43,6 +43,9 @@ fm0420](http://mazassumnida.wtf/api/generate_badge?boj=fm0420)](https://solved.a
 </a>
 </div>
 
+<a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_brown.svg" />
+</a>
 
 
 <!--
