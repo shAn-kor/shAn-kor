@@ -21,7 +21,8 @@
 <h3>⚒️ Tools ⚒️</h3>
 <Img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&amp;logo=IntellijIdea&amp;logoColor=white"/>
 <Img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&amp;logo=git&amp;logoColor=white"/>
-
+<hr>
+<hr>
 <a href="https://hhpluscertificateofcompletion.oopy.io/">
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_brown.svg" />
 </a>
