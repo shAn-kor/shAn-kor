@@ -35,7 +35,6 @@
 
 </div>
 
-[![](https://github-readme-stats.vercel.app/api?username=shAn-kor&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
 fm0420](http://mazassumnida.wtf/api/generate_badge?boj=fm0420)](https://solved.ac/fm0420)
 
