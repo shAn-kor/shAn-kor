@@ -39,6 +39,8 @@
 [![Solved.ac fm0420](http://mazassumnida.wtf/api/generate_badge?boj=fm0420)](https://solved.ac/fm0420)
 
 </div>
+
+<div align="center">
 📬 Contacts
   <br>
 <a href="kjn0406@gmail.com">
