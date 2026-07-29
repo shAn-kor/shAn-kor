@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://github.com/RustPython/RustPython/pull/8265">
-    <img src="https://img.shields.io/badge/RustPython-PR%20%238265%20merged-8957E5?style=flat-square&amp;logo=rust&amp;logoColor=white" alt="RustPython PR #8265 merged">
+  <a href="https://github.com/RustPython/RustPython/pulls?q=is%3Apr%20is%3Amerged%20author%3AshAn-kor">
+    <img src="https://img.shields.io/badge/RustPython-%238265%20%C2%B7%20%238407%20merged-8957E5?style=flat-square&amp;logo=rust&amp;logoColor=white" alt="RustPython PR #8265 and #8407 merged">
   </a>
   <a href="https://github.com/shAn-kor/PawShop">
     <img src="https://img.shields.io/badge/PawShop-Pet%20Commerce-EA4C89?style=flat-square&amp;logo=springboot&amp;logoColor=white" alt="PawShop pet commerce">
